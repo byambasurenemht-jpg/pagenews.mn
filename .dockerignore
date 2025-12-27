@@ -1,0 +1,11 @@
+node_modules
+vendor
+.git
+.github
+.env
+storage/*.key
+storage/debugbar
+npm-debug.log
+yarn-error.log
+/.idea
+/.vscode
